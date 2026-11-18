@@ -24,7 +24,7 @@ The shortcuts can be changed in NVDA's Input Gestures dialog, under the LocalSen
 
 ## Installation
 
-1. Download `LocalSendAccess-0.2.4.nvda-addon` from this repository.
+1. Download `LocalSendAccess-0.2.5.nvda-addon` from this repository.
 2. Open the file and choose Yes to install.
 3. Restart NVDA.
 
